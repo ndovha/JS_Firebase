@@ -1,0 +1,11 @@
+body {
+    background-color: rgb(246, 246, 229);
+}
+
+form {
+    background-color: rgb(205, 225, 225);
+}
+
+.warning {
+    color:red;
+}
